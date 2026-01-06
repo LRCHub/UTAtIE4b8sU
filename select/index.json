@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "FLOOR KILLER",
+  "base_artist": "梅田サイファー",
+  "createdAt": "2026-01-06T09:31:28.640770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Floor Killer",
+      "artist": "Merm4id",
+      "has_synced": true,
+      "path": "select/01_Floor_Killer_Merm4id.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Floor Killer",
+      "artist": "Merm4id(瀬戸リカ(CV.平嶋夏海)、水島茉莉花(CV.岡田夢以)、日高さおり(CV.葉月ひまり)、松山ダリア(CV.根岸愛))",
+      "has_synced": false,
+      "path": "select/02_Floor_Killer_Merm4id(瀬戸リカ(CV.平嶋夏海)、水島茉莉花(CV.岡田夢以)、日高さおり(CV.葉月ひまり)、松山ダリア(CV.根岸愛)).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dance Floor Killer",
+      "artist": "XHz Official",
+      "has_synced": true,
+      "path": "select/03_Dance_Floor_Killer_XHz_Official.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Floor Killer",
+      "artist": "Merm4id (平嶋夏海, 岡田夢以, 葉月ひまり, 根岸愛)",
+      "has_synced": true,
+      "path": "select/04_Floor_Killer_Merm4id_(平嶋夏海,_岡田夢以,_葉月ひまり,_根岸愛).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Floor Killer (instrumental)",
+      "artist": "Merm4id (平嶋夏海, 岡田夢以, 葉月ひまり, 根岸愛)",
+      "has_synced": true,
+      "path": "select/05_Floor_Killer_(instrumental)_Merm4id_(平嶋夏海,_岡田夢以,_葉月ひまり,_根岸愛).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Floor Killer",
+      "artist": "Merm4id",
+      "has_synced": false,
+      "path": "select/06_Floor_Killer_Merm4id.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLOOR KILLER",
+      "artist": "梅田サイファー",
+      "has_synced": false,
+      "path": "select/pl_01_FLOOR_KILLER_梅田サイファー.txt"
+    }
+  ]
+}
